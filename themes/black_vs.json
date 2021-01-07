@@ -216,7 +216,8 @@
     {
       "scope": ["string", "meta.embedded.assembly"],
       "settings": {
-        "foreground": "#ce9178"
+        "foreground": "#d2a8ff",
+        "fontStyle": "italic"
       }
     },
     {
